@@ -6,12 +6,12 @@
 //
 
 import SwiftUI
-
 @main
-struct exp_1_projectApp: App {
+struct LoginSignupApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            signuppage()
         }
     }
 }
+
